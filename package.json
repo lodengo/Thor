@@ -1,0 +1,17 @@
+{
+  "name": "thor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",    
+	"mongodb":"*",		
+	"async": "*",
+	"generic-pool": "*",
+	"mathjs": "*",
+	"log4js":"*",
+	"underscore":"*"	
+  }
+}
